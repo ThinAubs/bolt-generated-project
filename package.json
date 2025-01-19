@@ -1,0 +1,16 @@
+{
+      "name": "chat-website",
+      "version": "1.0.0",
+      "description": "A simple chat website using WebSockets",
+      "main": "server.js",
+      "scripts": {
+        "dev": "vite",
+        "start": "node server.js"
+      },
+      "dependencies": {
+        "ws": "^8.0.0"
+      },
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
